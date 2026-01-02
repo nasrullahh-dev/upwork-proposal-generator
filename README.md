@@ -60,7 +60,6 @@ npm install --global yarn
 
 ```
 
-
 3. **VS Code:** Open Visual Studio Code.
 
 ---
