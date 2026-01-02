@@ -135,7 +135,6 @@ export async function POST(req) {
 OPENAI_API_KEY=your_actual_key_here
 
 ```
-
 ---
 
 ### **Step 7: Launch the Project**
